@@ -1,4 +1,4 @@
-##Summoner Class
+##Summoner Class##
 
 Summon. Bind. Command.This module adds a fully realized Summoner Class for D&D 5e (compatible with 2024 content), featuring 3 unique subclasses and a collection of summon tokens—all ready for use directly inside FoundryVTT.
 
