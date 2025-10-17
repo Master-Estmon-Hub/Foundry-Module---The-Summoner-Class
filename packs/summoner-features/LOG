@@ -1,0 +1,8 @@
+2025/10/17-14:25:50.255 31f0 Recovering log #25
+2025/10/17-14:25:50.259 31f0 Delete type=0 #25
+2025/10/17-14:25:50.259 31f0 Delete type=3 #23
+2025/10/17-14:27:40.934 5fc Level-0 table #31: started
+2025/10/17-14:27:40.934 5fc Level-0 table #31: 0 bytes OK
+2025/10/17-14:27:40.935 5fc Delete type=0 #29
+2025/10/17-14:27:40.937 5fc Manual compaction at level-0 from '!folders!KddIltTNwEZUY8Av' @ 72057594037927935 : 1 .. '!items.effects!yScDKwhOQtkJIXZU.yiYmRGMJNlntZ0XG' @ 0 : 0; will stop at (end)
+2025/10/17-14:27:40.937 5fc Manual compaction at level-1 from '!folders!KddIltTNwEZUY8Av' @ 72057594037927935 : 1 .. '!items.effects!yScDKwhOQtkJIXZU.yiYmRGMJNlntZ0XG' @ 0 : 0; will stop at (end)

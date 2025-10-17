@@ -1,0 +1,60 @@
+{
+  "id": "the-summoner-class-master-estmon",
+  "title": "The Summoner Class - Master Estmon",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<h1 data-start=\"200\" data-end=\"229\">Summoner Class </h1><p data-start=\"231\" data-end=\"473\"><strong data-start=\"231\" data-end=\"257\">Summon. Bind. Command.</strong><br data-start=\"257\" data-end=\"260\" />This module adds a fully realized <strong data-start=\"294\" data-end=\"312\">Summoner Class</strong> for D&amp;D 5e (compatible with 2024 content), featuring <strong data-start=\"366\" data-end=\"389\">3 unique subclasses</strong> and a <strong data-start=\"396\" data-end=\"427\">collection of summon tokens</strong>—all ready for use directly inside FoundryVTT.</p><hr data-start=\"475\" data-end=\"478\" /><h2 data-start=\"480\" data-end=\"501\">What’s Included</h2><ul data-start=\"502\" data-end=\"1512\"><li data-start=\"502\" data-end=\"708\"><p data-start=\"504\" data-end=\"532\"><strong data-start=\"504\" data-end=\"532\">Full Class: The Summoner</strong></p><ul data-start=\"535\" data-end=\"708\"><li data-start=\"535\" data-end=\"635\"><p data-start=\"537\" data-end=\"635\">Core features such as the <strong data-start=\"563\" data-end=\"578\">Veil-Avatar</strong> and <strong data-start=\"583\" data-end=\"599\">Veil-Mantles</strong>, progressing in power as you level.</p></li></ul></li><li data-start=\"709\" data-end=\"915\"><p data-start=\"711\" data-end=\"736\"><strong data-start=\"711\" data-end=\"736\">3 Complete Subclasses</strong></p><ul data-start=\"739\" data-end=\"915\"><li data-start=\"739\" data-end=\"915\"><p data-start=\"741\" data-end=\"915\">Distinct thematic paths such as <strong data-start=\"773\" data-end=\"791\">Calling of the Grave</strong>, Calling of the Void, and <strong data-start=\"816\" data-end=\"837\">Calling of the Divine</strong></p></li></ul></li><li data-start=\"916\" data-end=\"1136\"><p data-start=\"918\" data-end=\"943\"><strong data-start=\"918\" data-end=\"943\">Organized Compendiums</strong></p><ul data-start=\"946\" data-end=\"1136\"><li data-start=\"946\" data-end=\"1056\"><p data-start=\"948\" data-end=\"1056\">Class features, subclass features, and related spells or abilities as individual entries for easy reference.</p></li><li data-start=\"1059\" data-end=\"1136\"><p data-start=\"1061\" data-end=\"1136\">Rule snippets for concentration sharing, aura effects, and other mechanics.</p></li></ul></li><li data-start=\"1137\" data-end=\"1346\"><p data-start=\"1139\" data-end=\"1156\"><strong data-start=\"1139\" data-end=\"1156\">Summon Tokens</strong></p><ul data-start=\"1159\" data-end=\"1346\"><li data-start=\"1159\" data-end=\"1239\"><p data-start=\"1161\" data-end=\"1239\">High-quality, transparent PNG tokens for your various <strong data-start=\"1215\" data-end=\"1238\">summons and avatars</strong>.</p></li></ul></li><li data-start=\"1347\" data-end=\"1512\"><p data-start=\"1349\" data-end=\"1370\"><strong data-start=\"1349\" data-end=\"1370\">Built for Foundry</strong></p><ul data-start=\"1373\" data-end=\"1512\"><li data-start=\"1373\" data-end=\"1438\"><p data-start=\"1375\" data-end=\"1438\">Pre-formatted <strong data-start=\"1389\" data-end=\"1405\">Item entries</strong> for class and subclass features.</p></li><li data-start=\"1441\" data-end=\"1512\"><p data-start=\"1443\" data-end=\"1512\">Drag-and-drop integration with the <strong data-start=\"1478\" data-end=\"1494\">dnd5e system</strong> character sheets.</p></li></ul></li></ul>",
+  "authors": [
+    {
+      "name": "Master Estmon",
+      "email": "theeastmon@gmail.com",
+      "url": "https://www.youtube.com/@MasterEstmon",
+      "discord": "Estmon",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Master-Estmon-Hub/D-D-Homebrew---Master-Estmon",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "summoner-master-document",
+      "label": "The Summoner - Master Document",
+      "path": "packs/summoner-master-document",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "summoner-summons",
+      "label": "The Summoner - Summons",
+      "path": "packs/summoner-summons",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "summoner-features",
+      "label": "The Summoner - Features",
+      "path": "packs/summoner-features",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}

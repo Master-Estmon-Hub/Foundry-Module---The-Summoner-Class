@@ -1,0 +1,8 @@
+2025/10/17-01:37:18.107 2f74 Recovering log #20
+2025/10/17-01:37:18.113 2f74 Delete type=0 #20
+2025/10/17-01:37:18.113 2f74 Delete type=3 #18
+2025/10/17-01:50:46.923 3168 Level-0 table #25: started
+2025/10/17-01:50:46.923 3168 Level-0 table #25: 0 bytes OK
+2025/10/17-01:50:46.925 3168 Delete type=0 #23
+2025/10/17-01:50:46.928 3168 Manual compaction at level-0 from '!journal!piQIIHiOBh9OovHL' @ 72057594037927935 : 1 .. '!journal.pages!piQIIHiOBh9OovHL.oxwSz0KXL0SGIlJm' @ 0 : 0; will stop at (end)
+2025/10/17-01:50:46.928 3168 Manual compaction at level-1 from '!journal!piQIIHiOBh9OovHL' @ 72057594037927935 : 1 .. '!journal.pages!piQIIHiOBh9OovHL.oxwSz0KXL0SGIlJm' @ 0 : 0; will stop at (end)
